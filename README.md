@@ -1,8 +1,9 @@
 # Online-Address-Book
-*****put the Data.txt and Date.txt file in the SSH software*********
+put the Data.txt and Date.txt file in the SSH software
 
 
-************************command inputting example*********************
+command inputting example
+
 client:/sbin/inconfig          // get the ip address
 
 server:g++ server.cpp -o server
