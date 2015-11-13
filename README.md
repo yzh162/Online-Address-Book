@@ -2,11 +2,11 @@
 put the Data.txt and Date.txt file in the SSH software
 
 
-command inputting example
+<p>command inputting example</p>
 
 client:/sbin/inconfig                                   // get the ip address
 
-server:g++ server.cpp -o server
+<p>server:g++ server.cpp -o server</p>
 server:./server			                     //set up the connection
 client:g++ client.cpp -o client
 client:./client IP
